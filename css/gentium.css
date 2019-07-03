@@ -1,0 +1,225 @@
+/* --------
+ NAVBAR
+------------*/
+.navbar {
+  background-color: #000000 !important;
+  opacity: 0.9;
+  padding: 20px; }
+
+/* ---------------------------
+ HOME
+----------------------------*/
+#head {
+  background: black;
+  background-position: center;
+  background-size: cover;
+  padding: 70px 30px; }
+  #head .size h1 {
+    font-family: "AvantGarde Bold", Sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: -1.9px;
+    margin-top: 200px;
+    box-sizing: border-box; }
+  #head .btn1 {
+    border-color: #e9204f;
+    background: transparent;
+    color: #fff;
+    padding: 15px 50px;
+    margin-top: 25px;
+    opacity: 1; }
+  #head :hover .btn1 {
+    position: relative;
+    left: 0;
+    opacity: 0.9;
+    transition: all 0.7s;
+    background-color: #e9204f !important; }
+
+.col-md-2 h2 {
+  color: #fff;
+  cursor: pointer; }
+
+.xett {
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  width: 15%;
+  height: 2px;
+  background-color: #e9204f; }
+
+.color i {
+  color: #e9204f; }
+
+.forma {
+  cursor: pointer;
+  height: 350px;
+  width: 100%;
+  padding: 60px 40px;
+  background-color: #332f2f;
+  opacity: 0.8; }
+
+.forma1 {
+  cursor: pointer;
+  height: 350px;
+  width: 100%;
+  padding: 60px 40px;
+  background-color: #e9204f !important; }
+  .forma1 i {
+    color: white !important; }
+
+.col-md-4:hover .forma {
+  opacity: 0.9;
+  transition: all 0.7s;
+  background-color: #e9204f !important; }
+  .col-md-4:hover .forma i {
+    color: #fff; }
+
+.forma1 .xett {
+  background-color: #fff !important; }
+
+.col-md-4:hover .xett {
+  opacity: 0.9;
+  transition: all 0.7s;
+  background-color: #fff !important; }
+
+/* ---------------------------
+ HOMEnin sonu :))
+----------------------------*/
+/* ---------------------------
+ SERVICES
+----------------------------*/
+.vertical {
+  background-color: #e9204f;
+  height: 60px;
+  width: 2px;
+  position: absolute;
+  top: -30px;
+  left: 50%; }
+
+.line {
+  margin-top: 135px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  width: 40px;
+  height: 2px;
+  background-color: #e9204f; }
+
+.col-md-12 h6 {
+  color: #e9204f; }
+
+.column {
+  margin-top: 30px;
+  border: 1px solid #fff;
+  padding: 18px;
+  background-color: #d2d2e7;
+  cursor: pointer; }
+
+.col-md-4:hover .column {
+  opacity: 0.9;
+  transition: all 0.7s;
+  background-color: #e9204f !important; }
+
+/* ---------------------------
+ SERVICES END
+----------------------------*/
+/* ----------------
+ WORK
+---------------------*/
+/* ----------------
+ WORK END
+---------------------*/
+/* ---------
+ ABOUT
+---------*/
+#about h6 {
+  color: #e9204f !important; }
+
+.size1 {
+  margin-top: 20px; }
+
+.distance {
+  margin-top: 100px; }
+
+/* ---------------
+ ABOUT END
+--------------*/
+/* ----------------
+ Client
+-----------------*/
+#clients {
+  margin-top: 200px; }
+  #clients h6 {
+    color: #e9204f; }
+
+/* ------------------
+ Client END
+---------------*/
+/* -----------------
+ BLOG
+------------------*/
+#blog {
+  margin-top: 200px; }
+
+#blog h1 {
+  text-align: center; }
+
+#blog h6 {
+  text-align: center;
+  color: #e9204f !important; }
+
+/* ---------
+ BLOG END
+--------------*/
+/* -------------
+ Contact
+--------------*/
+.icon i {
+  border-radius: 50%;
+  color: #fff;
+  border-color: #e9204f !important;
+  background: transparent;
+  cursor: pointer;
+  opacity: 1;
+  font-size: 20px;
+  padding: 0.7em;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px; }
+
+.col-md-4:hover i {
+  color: #e9204f; }
+
+.back {
+  padding: 140px 30px;
+  margin-top: 50px;
+  background-color: #1b1b1b; }
+
+.back2 {
+  padding: 40px 30px;
+  background: #161616; }
+
+.btn1 {
+  border-color: #e9204f;
+  background: transparent;
+  color: #fff;
+  padding: 15px 50px;
+  opacity: 1; }
+
+.col-md-6:hover h4 {
+  cursor: pointer;
+  color: #e9204f; }
+
+/* --------------
+ Contact END
+--------------*/
+/* ------------
+ FOOTER
+--------------*/
+#footer {
+  background: #000000; }
+
+/* ------------
+ FOOTER END
+-----------------*/
+
+/*# sourceMappingURL=gentium.css.map */
